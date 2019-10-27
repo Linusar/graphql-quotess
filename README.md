@@ -21,7 +21,7 @@
   </a>
 </p>
 
-> App de escritorio para la impresión de recetas sistema meppes y ambulatorio.
+> Api graphql for Quotes app.
 
 ### 🏠 [Homepage](https://github.com/graphql-quotess/graphql-quotess#readme)
 
