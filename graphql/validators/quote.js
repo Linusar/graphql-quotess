@@ -6,33 +6,27 @@ Joi.objectId = JoiObjectId(Joi);
 const author = Joi.string()
   .min(1)
   .max(255)
-  .alphanum()
-  .required()
   .label("Author");
 
 const photo = Joi.string()
   .min(5)
   .max(255)
-  .alphanum()
   .label("Photo");
 
 const quote = Joi.string()
   .min(5)
   .max(255)
-  .alphanum()
   .required()
   .label("Quote");
 
 const reference = Joi.string()
   .min(5)
   .max(255)
-  .alphanum()
   .label("Reference");
 
 const categorie = Joi.string()
   .min(5)
   .max(255)
-  .alphanum()
   .label("Categorie");
 
 const likes = Joi.number().label("Likes");
