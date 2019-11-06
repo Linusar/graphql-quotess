@@ -23,6 +23,10 @@
 
 > Api graphql for Quotes app.
 
+### In production 
+
+http://api.myquotess.com:4000/graphql
+
 ### 🏠 [Homepage](https://github.com/graphql-quotess/graphql-quotess#readme)
 
 **Server**
